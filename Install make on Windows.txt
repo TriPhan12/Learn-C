@@ -1,0 +1,8 @@
+GNU make is available on chocolatey.
+
+Install chocolatey from here. https://chocolatey.org/install 
+
+Then, choco install make.
+
+Now you will be able to use Make on windows.
+I've tried using it on MinGW, but it should work on CMD as well.
