@@ -23,3 +23,4 @@ void printLetter(char argv[]){
 int canPrint(char charater){
     return isalpha(charater) || isblank(charater);
 }
+
